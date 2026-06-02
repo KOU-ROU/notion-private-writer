@@ -1,0 +1,7 @@
+interface:
+  display_name: "Notion Private Writer"
+  short_description: "Import Markdown notes into logged-in Notion"
+  default_prompt: "Use $notion-private-writer to import Markdown notes into Notion as separate child pages."
+
+policy:
+  allow_implicit_invocation: true
